@@ -1,4 +1,11 @@
 #!/bin/bash
+echo "Cloning reposiotry" 
 git clone https://github.com/studioraz/magento-config-bootstrap.git
+
+echo "moving config folder under Magento root" 
 mv magento-config-bootstrap/config ./
+
+echo "deleting reposiotry folder"
 rm -rf magento-config-bootstrap
+
+echo "done"
