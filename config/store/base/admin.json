@@ -1,0 +1,21 @@
+{
+  "admin" : {
+    "security" : {
+      "use_form_key" : {
+        "default" : {
+          "0" : "0"
+        }
+      },
+      "admin_account_sharing" : {
+        "default" : {
+          "0" : "1"
+        }
+      },
+      "session_lifetime" : {
+        "default" : {
+          "0" : "1314000"
+        }
+      }
+    }
+  }
+}

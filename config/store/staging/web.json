@@ -1,5 +1,12 @@
 {
   "web" : {
+    "unsecure" : {
+      "base_url" : {
+        "default" : {
+          "0" : "https://www.example.com"
+        }
+      }
+    },
     "secure" : {
       "base_url" : {
         "default" : {

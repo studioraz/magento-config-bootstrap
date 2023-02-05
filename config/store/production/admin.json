@@ -1,0 +1,11 @@
+{
+  "admin": {
+    "security": {
+      "use_form_key": {
+        "default": {
+          "0": "1"
+        }
+      }
+    }
+  }
+}
