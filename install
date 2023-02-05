@@ -1,0 +1,4 @@
+#!/bin/bash
+git clone studioraz/magento-config-bootstrap
+mv magento-config-bootstrap/config ./
+rm -rf magento-config-bootstrap
