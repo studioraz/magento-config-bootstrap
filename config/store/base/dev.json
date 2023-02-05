@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "template": {
+      "allow_symlink": {
+        "default" : {
+          "0" : "1"
+        }
+      }
+    },
+    "css": {
+      "minify_files": {
+        "default" : {
+          "0" : "0"
+        }
+      }
+    },
+    "static": {
+      "sign": {
+        "default" : {
+          "0" : "1"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "multishipping":
+  {
+    "options":
+    {
+      "checkout_multiple": {
+        "default" : {
+          "0" : "0"
+        }
+      }
+    }
+  }
+}

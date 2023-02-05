@@ -1,0 +1,11 @@
+{
+  "system": {
+    "full_page_cache": {
+      "caching_application": {
+        "default": {
+          "0": "1"
+        }
+      }
+    }
+  }
+}

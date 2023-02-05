@@ -1,0 +1,102 @@
+{
+  "catalog": {
+    "frontend": {
+      "list_mode": {
+        "default": {
+          "0": ""
+        }
+      },
+      "list_mode": {
+        "default": {
+          "0": "grid"
+        }
+      },
+      "grid_per_page_values": {
+        "default": {
+          "0": "48"
+        }
+      },
+      "grid_per_page": {
+        "default": {
+          "0": "48"
+        }
+      },
+      "list_per_page_values": {
+        "default": {
+          "0": "24"
+        }
+      },
+      "list_per_page": {
+        "default": {
+          "0": "24"
+        }
+      },
+      "list_allow_all": {
+        "default": {
+          "0": "0"
+        }
+      }
+    },
+    "search": {
+      "search_suggestion_enabled": {
+        "default": {
+          "0": "1"
+        }
+      },
+      "search_recommendations_enabled": {
+        "default": {
+          "0": "1"
+        }
+      }
+    },
+    "seo": {
+      "search_terms": {
+        "default": {
+          "0": ""
+        }
+      },
+      "product_url_suffix": {
+        "default": {
+          "0": ""
+        }
+      },
+      "category_url_suffix": {
+        "default": {
+          "0": ""
+        }
+      },
+      "generate_category_product_rewrites": {
+        "default": {
+          "0": "0"
+        }
+      },
+      "product_use_categories": {
+        "default": {
+          "0": "0"
+        }
+      },
+      "save_rewrites_history": {
+        "default": {
+          "0": "1"
+        }
+      },
+      "category_canonical_tag": {
+        "default": {
+          "0": "1"
+        }
+      },
+      "product_canonical_tag": {
+        "default": {
+          "0": "1"
+        }
+      }
+    },
+    "custom_options": {
+      "use_calendar": {
+        "default": {
+          "0": "1"
+        }
+      }
+    }
+  }
+}
