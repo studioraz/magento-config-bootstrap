@@ -3,11 +3,6 @@
     "frontend": {
       "list_mode": {
         "default": {
-          "0": ""
-        }
-      },
-      "list_mode": {
-        "default": {
           "0": "grid"
         }
       },
