@@ -1,0 +1,11 @@
+{
+  "system": {
+    "smtp" : {
+      "disable" : {
+        "default" : {
+          "0" : "0"
+        }
+      }
+    }
+  }
+}

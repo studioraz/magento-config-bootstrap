@@ -1,0 +1,11 @@
+{
+  "design" : {
+    "theme" : {
+      "theme_id" : {
+        "websites" : {
+          "1" : "%theme(frontend/SR/hyva-rtl)%"
+        }
+      }
+    }
+  }
+}
