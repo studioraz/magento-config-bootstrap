@@ -1,0 +1,6 @@
+system/media_gallery/enabled:
+  default:
+    '0': '1'
+system/smtp/disable:
+  default:
+    '0': '1'

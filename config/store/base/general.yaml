@@ -1,0 +1,18 @@
+general/country/default:
+  default:
+    '0': IL
+general/locale/timezone:
+  default:
+    '0': Asia/Jerusalem
+general/locale/code:
+  default:
+    '0': he_IL
+general/locale/weight_unit:
+  default:
+    '0': kgs
+general/locale/weekend:
+  default:
+    '0': 5,6
+general/single_store_mode/enabled:
+  default:
+    '0': '1'

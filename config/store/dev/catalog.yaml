@@ -1,0 +1,12 @@
+catalog/search/engine:
+  default:
+    '0': elasticsearch7
+catalog/search/elasticsearch7_index_prefix:
+  default:
+    '0': ddev
+catalog/search/elasticsearch7_server_hostname:
+  default:
+    '0': elasticsearch
+catalog/search/elasticsearch7_server_port:
+  default:
+    '0': '9200'

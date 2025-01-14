@@ -1,0 +1,27 @@
+sales_email/general/async_sending:
+  default:
+    '0': '1'
+sales_email/order/enabled:
+  default:
+    '0': '1'
+sales_email/order_comment/enabled:
+  default:
+    '0': '0'
+sales_email/invoice/enabled:
+  default:
+    '0': '0'
+sales_email/invoice_comment/enabled:
+  default:
+    '0': '0'
+sales_email/shipment/enabled:
+  default:
+    '0': '0'
+sales_email/shipment_comment/enabled:
+  default:
+    '0': '0'
+sales_email/creditmemo/enabled:
+  default:
+    '0': '0'
+sales_email/creditmemo_comment/enabled:
+  default:
+    '0': '0'

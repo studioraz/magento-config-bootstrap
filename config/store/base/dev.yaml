@@ -1,0 +1,9 @@
+dev/template/allow_symlink:
+  default:
+    '0': '1'
+dev/css/minify_files:
+  default:
+    '0': '0'
+dev/static/sign:
+  default:
+    '0': '1'

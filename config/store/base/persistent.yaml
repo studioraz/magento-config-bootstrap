@@ -1,0 +1,18 @@
+persistent/options/enabled:
+  default:
+    '0': '1'
+persistent/options/lifetime:
+  default:
+    '0': '31536000'
+persistent/options/remember_enabled:
+  default:
+    '0': '1'
+persistent/options/remember_default:
+  default:
+    '0': '1'
+persistent/options/logout_clear:
+  default:
+    '0': '1'
+persistent/options/shopping_cart:
+  default:
+    '0': '1'

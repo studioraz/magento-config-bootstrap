@@ -1,0 +1,12 @@
+web/secure/use_in_frontend:
+  default:
+    '0': '1'
+web/secure/use_in_adminhtml:
+  default:
+    '0': '1'
+web/cookie/cookie_lifetime:
+  default:
+    '0': '1314000'
+web/cookie/cookie_httponly:
+  default:
+    '0': '1'

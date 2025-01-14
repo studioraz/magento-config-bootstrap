@@ -1,0 +1,51 @@
+catalog/frontend/list_mode:
+  default:
+    '0': grid
+catalog/frontend/grid_per_page_values:
+  default:
+    '0': '48'
+catalog/frontend/grid_per_page:
+  default:
+    '0': '48'
+catalog/frontend/list_per_page_values:
+  default:
+    '0': '24'
+catalog/frontend/list_per_page:
+  default:
+    '0': '24'
+catalog/frontend/list_allow_all:
+  default:
+    '0': '0'
+catalog/search/search_suggestion_enabled:
+  default:
+    '0': '1'
+catalog/search/search_recommendations_enabled:
+  default:
+    '0': '1'
+catalog/seo/search_terms:
+  default:
+    '0': ''
+catalog/seo/product_url_suffix:
+  default:
+    '0': ''
+catalog/seo/category_url_suffix:
+  default:
+    '0': ''
+catalog/seo/generate_category_product_rewrites:
+  default:
+    '0': '0'
+catalog/seo/product_use_categories:
+  default:
+    '0': '0'
+catalog/seo/save_rewrites_history:
+  default:
+    '0': '1'
+catalog/seo/category_canonical_tag:
+  default:
+    '0': '1'
+catalog/seo/product_canonical_tag:
+  default:
+    '0': '1'
+catalog/custom_options/use_calendar:
+  default:
+    '0': '1'
