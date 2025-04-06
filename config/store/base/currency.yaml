@@ -1,0 +1,27 @@
+currency/currencyconverterapi/api_key:
+  default:
+    0: 
+currency/currencyconverterapi/timeout:
+  default:
+    0: 100
+currency/fixerio/api_key:
+  default:
+    0: 
+currency/fixerio/timeout:
+  default:
+    0: 100
+currency/fixerio_apilayer/api_key:
+  default:
+    0: 
+currency/fixerio_apilayer/timeout:
+  default:
+    0: 100
+currency/options/allow:
+  default:
+    0: 'ILS'
+currency/options/base:
+  default:
+    0: 'ILS'
+currency/options/default:
+  default:
+    0: 'ILS'
