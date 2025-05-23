@@ -1,0 +1,3 @@
+hyva_theme_fallback/general/theme_full_path:
+  default:
+    '0': 'frontend/SR/hyva-checkout-fallback'

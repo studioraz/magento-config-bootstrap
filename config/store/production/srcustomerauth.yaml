@@ -1,0 +1,3 @@
+srcustomerauth/developer/is_sms_sending_active:
+  default:
+    '0': '1'

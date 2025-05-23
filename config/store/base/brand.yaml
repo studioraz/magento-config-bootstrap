@@ -1,0 +1,125 @@
+brand/all_brand_page/isShowBrandLogo:
+  default:
+    0: 1
+brand/all_brand_page/MetaDescription:
+  default:
+    0:
+brand/all_brand_page/MetaKeyword:
+  default:
+    0:
+brand/all_brand_page/MetaTitle:
+  default:
+    0:
+brand/brand_logo/isProductListBrandLogoEnabled:
+  default:
+    0: 1
+brand/brand_logo/isProductPageBrandLogoEnabled:
+  default:
+    0: 1
+brand/brand_logo/ProductListBrandLogoImageWidth:
+  default:
+    0:
+brand/brand_logo/ProductListBrandLogoTooltip:
+  default:
+    0:
+brand/brand_logo/ProductPageBrandLogoDescription:
+  default:
+    0: 0
+brand/brand_logo/ProductPageBrandLogoImageWidth:
+  default:
+    0: 140
+brand/brand_logo/ProductPageBrandLogoTooltip:
+  default:
+    0:
+brand/brand_logo/TooltipMaxImageWidth:
+  default:
+    0:
+brand/brand_page/isShowBrandLogo:
+  default:
+    0: 1
+brand/brand_page/seo/url_suffix_mode:
+  default:
+    0: 1
+brand/brand_slider/ActivePagingColor:
+  default:
+    0:
+brand/brand_slider/HoverPagingColor:
+  default:
+    0:
+brand/brand_slider/InactivePagingColor:
+  default:
+    0:
+brand/brand_slider/isAutoPlay:
+  default:
+    0: 0
+brand/brand_slider/isShowBrandLabel:
+  default:
+    0: 0
+brand/brand_slider/isShowButton:
+  default:
+    0: 0
+brand/brand_slider/isShowPagination:
+  default:
+    0: 0
+brand/brand_slider/isShowTitle:
+  default:
+    0: 0
+brand/brand_slider/ItemsLimit:
+  default:
+    0:
+brand/brand_slider/NavigationButtonsColor:
+  default:
+    0:
+brand/brand_slider/Order:
+  default:
+    0: 0
+brand/brand_slider/SliderImageWidth:
+  default:
+    0:
+brand/brand_slider/SliderWidth:
+  default:
+    0:
+brand/brand_slider/SpacingBetweenImages:
+  default:
+    0: 40
+brand/brand_slider/TitleBackgroundColor:
+  default:
+    0:
+brand/brand_slider/TitleTextColor:
+  default:
+    0:
+brand/brand_slider/WidgetCode:
+  default:
+    0: '{{widget type="Mirasvit\Brand\Block\Widget\BrandSlider" template="widget/brand_slider.phtml"}}'
+brand/general/AllBrandUrl:
+  default:
+    0:
+brand/general/BrandLinkPosition:
+  default:
+    0: 0
+brand/general/FormatBrandUrl:
+  default:
+    0: 0
+brand/general/isShowAllCategories:
+  default:
+    0: 0
+brand/general/isShowBrandsWithoutProducts:
+  default:
+    0: 0
+brand/general/isShowNotConfiguredBrands:
+  default:
+    0: 0
+brand/general/show_products_in_page_form:
+  default:
+    0: 0
+brand/more_products_from_brand/isEnabled:
+  default:
+    0: 1
+brand/more_products_from_brand/ProductsLimit:
+  default:
+    0: 10
+brand/more_products_from_brand/Title:
+  default:
+    0: 'More Products from the Same brand Slider'
+brand/seo/robots:
+  default:

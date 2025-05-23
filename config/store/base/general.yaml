@@ -1,6 +1,9 @@
 general/country/default:
   default:
     '0': IL
+general/country/allow:
+  default:
+    '0': IL
 general/locale/timezone:
   default:
     '0': Asia/Jerusalem
@@ -16,3 +19,6 @@ general/locale/weekend:
 general/single_store_mode/enabled:
   default:
     '0': '1'
+general/country/optional_zip_countries:
+  default:
+    '0': IL

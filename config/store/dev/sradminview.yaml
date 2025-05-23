@@ -1,0 +1,12 @@
+sradminview/environment/environment:
+  default:
+    0: 'dev'
+sradminview/general/active:
+  default:
+    0: 1
+sradminview/logos/login_logo:
+  default:
+    0:
+sradminview/logos/menu_logo:
+  default:
+    0:

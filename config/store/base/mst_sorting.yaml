@@ -1,0 +1,9 @@
+mst_sorting/general/apply_if_empty:
+  default:
+    0: 0
+mst_sorting/general/debug_product_metadata:
+  default:
+    0: 0
+mst_sorting/general/dev_mode:
+  default:
+    0: 0

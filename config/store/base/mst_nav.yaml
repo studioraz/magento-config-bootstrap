@@ -1,0 +1,126 @@
+mst_nav/extra_filter/category/alphabetical_index:
+  default:
+    0: 0
+mst_nav/extra_filter/category/sort_by:
+  default:
+    0: 'count'
+mst_nav/extra_filter/new/is_enabled:
+  default:
+    0: 0
+mst_nav/extra_filter/rating/is_enabled:
+  default:
+    0: 0
+mst_nav/extra_filter/sale/is_enabled:
+  default:
+    0: 0
+mst_nav/extra_filter/search/is_enabled:
+  default:
+    0: 0
+mst_nav/extra_filter/search/is_filter_options:
+  default:
+    0: 1
+mst_nav/extra_filter/search/is_fulltext:
+  default:
+    0: 1
+mst_nav/extra_filter/search/label:
+  default:
+    0: 'Search within results'
+mst_nav/extra_filter/stock/is_enabled:
+  default:
+    0: 0
+mst_nav/general/confirm_on_mobile:
+  default:
+    0: 0
+mst_nav/general/display_options_background_color:
+  default:
+    0:
+mst_nav/general/display_options_border_color:
+  default:
+    0:
+mst_nav/general/display_options_checked_color:
+  default:
+    0:
+mst_nav/general/filter_applying_mode:
+  default:
+    0: 'instantly'
+mst_nav/general/filter_item_display_mode:
+  default:
+    0: 'checkbox'
+mst_nav/general/hide_unuseful_option:
+  default:
+    0: 0
+mst_nav/general/is_ajax_enabled:
+  default:
+    0: 1
+mst_nav/general/is_multiselect_enabled:
+  default:
+    0: 1
+mst_nav/general/is_open_filter:
+  default:
+    0: 0
+mst_nav/general/is_show_nested_categories:
+  default:
+    0: 0
+mst_nav/general/mode_switch_breakpoint:
+  default:
+    0:
+mst_nav/general/scroll_to_top:
+  default:
+    0: 1
+mst_nav/general/sticky_sidebar:
+  default:
+    0: 0
+mst_nav/highlight/is_enabled:
+  default:
+    0: 0
+mst_nav/horizontal_bar/filters:
+  default:
+    0: '{"_1737304816085_85":{"attribute_code":"brand","position":"horizontal"}}'
+mst_nav/horizontal_bar/horizontal_filters_hide:
+  default:
+    0:
+mst_nav/product_attribute_linking/attributes:
+  default:
+    0:
+mst_nav/product_attribute_linking/is_enabled:
+  default:
+    0: 0
+mst_nav/seo/canonical:
+  default:
+    0: 0
+mst_nav/seo/rel:
+  default:
+    0: 'follow'
+mst_nav/seo/robots:
+  default:
+    0:
+mst_nav/size_limiter/alphabetical_limit:
+  default:
+    0: 5
+mst_nav/size_limiter/display_mode:
+  default:
+    0: 'show-hide'
+mst_nav/size_limiter/link_limit:
+  default:
+    0: 10
+mst_nav/size_limiter/text_less:
+  default:
+    0: 'הצג פחות...'
+mst_nav/size_limiter/text_more:
+  default:
+    0: 'הצג יותר...'
+mst_nav/state_bar/group_mode:
+  default:
+    0: 'separate'
+mst_nav/state_bar/position:
+  default:
+    0: 'default'
+mst_nav/styling/additional_css:
+  default:
+    0:
+mst_nav/styling/slider_main_color:
+  default:
+    0: '#E51F26'
+mst_nav/styling/slider_secondary_color:
+  default:
+    0: '#FBDEDF'

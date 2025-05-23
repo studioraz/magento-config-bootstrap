@@ -1,0 +1,27 @@
+sr_directory/general/enabled:
+  default:
+    '0': 1
+sr_directory/general/show_house_number:
+  default:
+    '0': 1
+sr_directory/general/required_house_number:
+  default:
+    '0': 1
+sr_directory/general/enable_street_validation:
+  default:
+    '0': 1
+sr_directory/general/show_entrance:
+  default:
+    '0': 1
+sr_directory/general/show_apartment:
+  default:
+    '0': 1
+sr_directory/general/show_floor:
+  default:
+    '0': 1
+sr_directory/order_comments/show_shipping_comments:
+  default:
+    '0': 1
+sr_directory/import_city_street/enable_cron_street_update:
+  default:
+    '0': 1

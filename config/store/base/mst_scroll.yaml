@@ -1,0 +1,15 @@
+mst_scroll/general/mode:
+  default:
+    0: 'button'
+mst_scroll/general/next_text:
+  default:
+    0: 'הצג %limit% מוצרים נוספים'
+mst_scroll/general/prev_text:
+  default:
+    0: 'הצג מוצרים נוספים'
+mst_scroll/general/progress_bar_enabled:
+  default:
+    0: 1
+mst_scroll/general/progress_bar_label:
+  default:
+    0: 'מציג %loaded% מתוך %total% מוצרים'
