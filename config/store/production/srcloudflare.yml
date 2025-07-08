@@ -1,0 +1,3 @@
+srcloudflare/general/active :
+  default:
+    '0': '0'
