@@ -3,10 +3,10 @@ catalog/frontend/list_mode:
     '0': grid
 catalog/frontend/grid_per_page_values:
   default:
-    '0': '48'
+    '0': '30'
 catalog/frontend/grid_per_page:
   default:
-    '0': '48'
+    '0': '30'
 catalog/frontend/list_per_page_values:
   default:
     '0': '24'
