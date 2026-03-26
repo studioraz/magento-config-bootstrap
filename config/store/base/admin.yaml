@@ -7,3 +7,6 @@ admin/security/admin_account_sharing:
 admin/security/session_lifetime:
   default:
     '0': '1314000'
+admin/system_admin_design/active_theme:
+  default:
+    '0': 'Magento/backend'
