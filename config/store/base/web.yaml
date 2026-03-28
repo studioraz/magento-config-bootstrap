@@ -10,3 +10,6 @@ web/cookie/cookie_lifetime:
 web/cookie/cookie_httponly:
   default:
     '0': '1'
+web/seo/use_rewrites:
+  default:
+    '0': '1'
