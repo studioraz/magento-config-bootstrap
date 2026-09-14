@@ -1,0 +1,6 @@
+hyva_theme_general/demo_content/show_homepage_demo_content:
+  default:
+    '0': 'No'
+hyva_theme_general/animations/enable_view_transition_gallery:
+  default:
+    '0': 'Yes'
