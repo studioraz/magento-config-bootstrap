@@ -1,3 +1,3 @@
 hyva_theme_dev/cache/enable_svg_icon_caching:
   default:
-    '0': 'Yes'
+    '0': '1'
