@@ -4,3 +4,6 @@ system/media_gallery/enabled:
 system/smtp/disable:
   default:
     '0': '1'
+system/full_page_cache/bfcache:
+  default:
+    '0': 'Yes'
