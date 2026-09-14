@@ -6,4 +6,4 @@ system/smtp/disable:
     '0': '1'
 system/full_page_cache/bfcache:
   default:
-    '0': 'Yes'
+    '0': '1'
