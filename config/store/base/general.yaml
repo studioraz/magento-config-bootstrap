@@ -1,3 +1,6 @@
+#########
+# general
+#########
 general/country/default:
   default:
     '0': IL
@@ -22,3 +25,33 @@ general/single_store_mode/enabled:
 general/country/optional_zip_countries:
   default:
     '0': IL
+general/store_information/city:
+  default:
+    0: ''
+general/store_information/country_id:
+  default:
+    0: 'IL'
+general/store_information/hours:
+  default:
+    0: ''
+general/store_information/merchant_vat_number:
+  default:
+    0: ''
+general/store_information/name:
+  default:
+    0: ''
+general/store_information/phone:
+  default:
+    0: ''
+general/store_information/postcode:
+  default:
+    0: ''
+general/store_information/region_id:
+  default:
+    0: ''
+general/store_information/street_line1:
+  default:
+    0: ''
+general/store_information/street_line2:
+  default:
+    0: ''
